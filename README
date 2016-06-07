@@ -1,0 +1,7 @@
+How to run:
+
+make clean
+make
+
+sample example:
+./interactive_sampling.out -d chess.dat.IPM -c 1000 -s 500 -f 50
